@@ -7,12 +7,12 @@
 
 My last blog post from my french blog [https://woivre.fr](https://woivre.fr) :
 
-<!-- FRENCH-POST-LIST:START -->
+<!-- FRENCH-BLOG-POST-LIST:START -->
 <!-- FRENCH-BLOG-POST-LIST:END -->
 
 And here is my english blog [https://woivre.com](https://woivre.com) :
 
-<!-- ENGLISH-POST-LIST:START -->
+<!-- ENGLISH-BLOG-POST-LIST:START -->
 <!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Have a good day !
