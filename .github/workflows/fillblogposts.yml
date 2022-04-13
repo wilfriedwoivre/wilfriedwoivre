@@ -12,10 +12,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Pull in french blog
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://woivre.fr/feed"
           comment_tag_name: "FRENCH-BLOG-POST-LIST"
-          template: "$newline - $date -[$title]($url)"
+          template: "$newline - $date : [$title]($url)"
           date_format: "mmm d, yyyy"
+      - name: Pull in english blog
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://woivre.com/feed"
+          comment_tag_name: "ENGLISH-BLOG-POST-LIST"
+          template: "$newline - $date : [$title]($url)"
+          date_format: "mmm d, yyyy"
+      
