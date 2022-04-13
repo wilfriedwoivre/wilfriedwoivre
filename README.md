@@ -5,7 +5,7 @@
 - 💬 Ask me about Azure !
 - 📫 How to reach me: You can follow me on twitter [@wilfriedwoivre](https://twitter.com/wilfriedwoivre) or you can go to my blogs : **[french version](https://woivre.fr)** or **[english version](https://woivre.com)**
 
-My last blog post from my french blog [https://woivre.fr](https://woivre.fr) :
+My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 
 <!-- FRENCH-BLOG-POST-LIST:START -->
 - [Azure Storage - Simplifiez la rotation de vos clés](https://woivre.fr/blog/2022/04/azure-storage-simplifiez-la-rotation-de-vos-cles)
@@ -15,7 +15,7 @@ My last blog post from my french blog [https://woivre.fr](https://woivre.fr) :
 - [Enrichir votre Microsoft Defender for Cloud avec vos propres règles](https://woivre.fr/blog/2021/12/enrichir-votre-security-center-avec-vos-propres-regles)
 <!-- FRENCH-BLOG-POST-LIST:END -->
 
-And here is my english blog [https://woivre.com](https://woivre.com) :
+And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
 <!-- ENGLISH-BLOG-POST-LIST:START -->
 <!-- ENGLISH-BLOG-POST-LIST:END -->
