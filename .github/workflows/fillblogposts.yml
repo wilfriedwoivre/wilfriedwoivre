@@ -17,3 +17,5 @@ jobs:
         with:
           feed_list: "https://woivre.fr/feed"
           comment_tag_name: "FRENCH-BLOG-POST-LIST"
+          template: "$newline - $date -[$title]($url)"
+          date_format: "mmm d, yyyy"
