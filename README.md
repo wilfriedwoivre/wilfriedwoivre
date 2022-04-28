@@ -11,8 +11,8 @@ My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
  - Apr 20, 2022 : [Azure Policy - Surveillez à qui vous donnez vos droits RBAC](https://woivre.fr/blog/2022/04/azure-policy-surveillez-a-qui-vous-donnez-vos-droits-rbac)
  - Apr 15, 2022 : [Azure Storage - Contrôler l’utilisation de vos SAS Key](https://woivre.fr/blog/2022/04/azure-storage-controler-lutilisation-de-vos-sas-key)
  - Apr 13, 2022 : [Azure Storage - Simplifiez la rotation de vos clés](https://woivre.fr/blog/2022/04/azure-storage-simplifiez-la-rotation-de-vos-cles)
- - Mar 9, 2022 : [Azure - Utiliser les endpoints régionaux d’ARM](https://woivre.fr/blog/2022/03/azure-utiliser-les-endpoints-regionaux-darm)
- - Mar 8, 2022 : [Azure - Récupérer simplement un token pour vos appels REST](https://woivre.fr/blog/2022/03/azure-recuperer-simplement-un-token-pour-vos-appels-rest)<!-- FRENCH-BLOG-POST-LIST:END -->
+ - Mar 15, 2022 : [Azure Batch - Utiliser des pools avec NoPublicIPAddress](https://woivre.fr/blog/2022/03/azure-batch-utiliser-des-pools-avec-nopublicipaddress)
+ - Mar 9, 2022 : [Azure - Utiliser les endpoints régionaux d’ARM](https://woivre.fr/blog/2022/03/azure-utiliser-les-endpoints-regionaux-darm)<!-- FRENCH-BLOG-POST-LIST:END -->
 
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
