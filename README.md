@@ -8,11 +8,11 @@
 My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 
 <!-- FRENCH-BLOG-POST-LIST:START -->
+ - Aug 18, 2022 : [Trouvez vos Azure Policies non utilisées](https://woivre.fr/blog/2022/08/trouvez-vos-azure-policies-non-utilisees)
  - Jul 11, 2022 : [Logic Apps - Stocker et récupérer l’heure de la dernière exécution](https://woivre.fr/blog/2022/07/logic-apps-stocker-et-recuperer-lheure-de-la-derniere-execution)
  - Jul 1, 2022 : [Azure - Tour d’horizon de la gouvernance Cloud](https://woivre.fr/blog/2022/07/azure-tour-dhorizon-de-la-gouvernance-cloud)
  - Apr 20, 2022 : [Azure Policy - Surveillez à qui vous donnez vos droits RBAC](https://woivre.fr/blog/2022/04/azure-policy-surveillez-a-qui-vous-donnez-vos-droits-rbac)
- - Apr 15, 2022 : [Azure Storage - Contrôler l’utilisation de vos SAS Key](https://woivre.fr/blog/2022/04/azure-storage-controler-lutilisation-de-vos-sas-key)
- - Apr 13, 2022 : [Azure Storage - Simplifiez la rotation de vos clés](https://woivre.fr/blog/2022/04/azure-storage-simplifiez-la-rotation-de-vos-cles)<!-- FRENCH-BLOG-POST-LIST:END -->
+ - Apr 15, 2022 : [Azure Storage - Contrôler l’utilisation de vos SAS Key](https://woivre.fr/blog/2022/04/azure-storage-controler-lutilisation-de-vos-sas-key)<!-- FRENCH-BLOG-POST-LIST:END -->
 
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
