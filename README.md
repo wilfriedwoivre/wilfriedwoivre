@@ -10,11 +10,11 @@
 My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 
 <!-- FRENCH-BLOG-POST-LIST:START -->
+ - May 24, 2023 : [Github Actions - Et si on l’utilisait pour faire notre veille technologique](https://woivre.fr/blog/2023/05/github-actions-et-si-on-lutilisait-pour-faire-notre-veille-technologique)
  - Sep 29, 2022 : [Créer un site privé sur Github Pages grâce à Azure Active Directory](https://woivre.fr/blog/2022/09/creer-un-site-prive-sur-github-pages-grace-a-azure-active-directory)
  - Aug 18, 2022 : [Trouvez vos Azure Policies non utilisées](https://woivre.fr/blog/2022/08/trouvez-vos-azure-policies-non-utilisees)
  - Jul 11, 2022 : [Logic Apps - Stocker et récupérer l’heure de la dernière exécution](https://woivre.fr/blog/2022/07/logic-apps-stocker-et-recuperer-lheure-de-la-derniere-execution)
- - Jul 1, 2022 : [Azure - Tour d’horizon de la gouvernance Cloud](https://woivre.fr/blog/2022/07/azure-tour-dhorizon-de-la-gouvernance-cloud)
- - Apr 20, 2022 : [Azure Policy - Surveillez à qui vous donnez vos droits RBAC](https://woivre.fr/blog/2022/04/azure-policy-surveillez-a-qui-vous-donnez-vos-droits-rbac)<!-- FRENCH-BLOG-POST-LIST:END -->
+ - Jul 1, 2022 : [Azure - Tour d’horizon de la gouvernance Cloud](https://woivre.fr/blog/2022/07/azure-tour-dhorizon-de-la-gouvernance-cloud)<!-- FRENCH-BLOG-POST-LIST:END -->
 
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
