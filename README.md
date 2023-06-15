@@ -7,7 +7,7 @@
 
 [![Wilfried Woivré's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilfriedwoivre&count_private=true&theme=tokyonight&show_icons=true)](#)
 
-[![Wilfried Woivré's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfriedwoivre)](https://github.com/anuraghazra/github-readme-stats)
+[![Wilfried Woivré's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfriedwoivre)](https://github.com/anuraghazra/github-readme-stats?theme=tokyonight)
 
 My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 
