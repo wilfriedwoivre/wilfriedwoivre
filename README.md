@@ -13,10 +13,10 @@ My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 
 <!-- FRENCH-BLOG-POST-LIST:START -->
  - Mar 12, 2024 : [Azure Private Endpoint - Et si on jetait un oeil à la résolution DNS](https://woivre.fr/blog/2024/03/azure-private-endpoint-et-si-on-jetait-un-oeil-a-la-resolution-dns)
+ - Feb 11, 2024 : [Azure - Anticiper les impacts de la suppression des services](https://woivre.fr/blog/2024/02/azure-anticiper-les-impacts-de-la-suppression-des-services)
  - Aug 18, 2023 : [Azure Bicep - Enfin des functions pour manipuler les CIDRs](https://woivre.fr/blog/2023/08/azure-bicep-enfin-des-functions-pour-manipuler-les-cidrs)
  - Jun 6, 2023 : [Azure Functions - Utiliser Azurite en HTTPS pour vos tests Unitaires](https://woivre.fr/blog/2023/06/azure-functions-utiliser-azurite-en-https-pour-vos-tests-unitaires)
- - May 24, 2023 : [Github Actions - Et si on l’utilisait pour faire notre veille technologique](https://woivre.fr/blog/2023/05/github-actions-et-si-on-lutilisait-pour-faire-notre-veille-technologique)
- - Sep 29, 2022 : [Créer un site privé sur Github Pages grâce à Azure Active Directory](https://woivre.fr/blog/2022/09/creer-un-site-prive-sur-github-pages-grace-a-azure-active-directory)<!-- FRENCH-BLOG-POST-LIST:END -->
+ - May 24, 2023 : [Github Actions - Et si on l’utilisait pour faire notre veille technologique](https://woivre.fr/blog/2023/05/github-actions-et-si-on-lutilisait-pour-faire-notre-veille-technologique)<!-- FRENCH-BLOG-POST-LIST:END -->
 
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
