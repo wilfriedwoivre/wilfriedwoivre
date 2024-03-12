@@ -21,10 +21,10 @@ My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
 <!-- ENGLISH-BLOG-POST-LIST:START -->
+ - Mar 12, 2024 : [Azure Private Endpoint - Deep dive on DNS resolution](https://woivre.com/blog/2024/03/azure-private-endpoint-deep-dive-on-dns-resolution)
  - Aug 23, 2023 : [Azure Bicep - Finally functions to manipulate CIDRs](https://woivre.com/blog/2023/08/azure-bicep-finally-functions-to-manipulate-cidrs)
  - Nov 10, 2022 : [Azure Policy - Find unused policies](https://woivre.com/blog/2022/11/azure-policy-find-unused-policies)
  - Sep 7, 2022 : [Azure - Overview of cloud governance](https://woivre.com/blog/2022/09/azure-overview-of-cloud-governance)
- - Apr 21, 2022 : [Azure Storage - Control usage of your SAS Keys](https://woivre.com/blog/2022/04/azure-storage-control-usage-of-your-sas-keys)
- - Apr 20, 2022 : [Azure Storage - Simplify your keys rotation](https://woivre.com/blog/2022/04/azure-storage-simplify-your-keys-rotation)<!-- ENGLISH-BLOG-POST-LIST:END -->
+ - Apr 21, 2022 : [Azure Storage - Control usage of your SAS Keys](https://woivre.com/blog/2022/04/azure-storage-control-usage-of-your-sas-keys)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Have a good day !
