@@ -16,7 +16,7 @@ My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
  - Feb 11, 2024 : [Azure - Anticiper les impacts de la suppression des services](https://woivre.fr/blog/2024/02/azure-anticiper-les-impacts-de-la-suppression-des-services)
  - Jan 25, 2024 : [Azure Storage - Une résolution DNS en fonction du SKU](https://woivre.fr/blog/2024/01/azure-storage-une-resolution-dns-en-fonction-du-sku)
  - Dec 4, 2023 : [Azure - Ménage de printemps pour votre RBAC](https://woivre.fr/blog/2023/12/azure-menage-de-printemps-pour-votre-rbac)
- - Aug 18, 2023 : [Azure Bicep - Enfin des functions pour manipuler les CIDRs](https://woivre.fr/blog/2023/08/azure-bicep-enfin-des-functions-pour-manipuler-les-cidrs)<!-- FRENCH-BLOG-POST-LIST:END -->
+ - Oct 20, 2023 : [Azure Policy - Un outil puissant pour votre gouvernance seulement si on l’utilise bien](https://woivre.fr/blog/2023/10/azure-policy-un-outil-puissant-pour-votre-gouvernance-seulement-si-on-lutilise-bien)<!-- FRENCH-BLOG-POST-LIST:END -->
 
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
