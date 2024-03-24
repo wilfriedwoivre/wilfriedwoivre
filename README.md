@@ -22,9 +22,9 @@ And here is my latest posts from my english blog [https://woivre.com](https://wo
 
 <!-- ENGLISH-BLOG-POST-LIST:START -->
  - Mar 12, 2024 : [Azure Private Endpoint - Deep dive on DNS resolution](https://woivre.com/blog/2024/03/azure-private-endpoint-deep-dive-on-dns-resolution)
- - Mar 1, 2024 : [My reading news for February 2024](https://woivre.com/blog/2024/03/my-reading-news-for-february-2024)
  - Feb 11, 2024 : [Azure - Anticipate the impacts of the services removal](https://woivre.com/blog/2024/02/azure-anticipate-the-impacts-of-the-services-removal)
  - Jan 25, 2024 : [Azure Storage - DNS resolution as dependant of the SKU](https://woivre.com/blog/2024/01/azure-storage-dns-resolution-as-dependant-of-the-sku)
- - Dec 4, 2023 : [Azure - Spring cleaning for your rbac](https://woivre.com/blog/2023/12/azure-spring-cleaning-for-your-rbac)<!-- ENGLISH-BLOG-POST-LIST:END -->
+ - Dec 4, 2023 : [Azure - Spring cleaning for your rbac](https://woivre.com/blog/2023/12/azure-spring-cleaning-for-your-rbac)
+ - Nov 5, 2023 : [Azure Policy - API version hell](https://woivre.com/blog/2023/11/azure-policy-api-version-hell)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Have a good day !
