@@ -12,11 +12,11 @@
 My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 
 <!-- FRENCH-BLOG-POST-LIST:START -->
+ - Apr 2, 2024 : [Azure Bicep - Activer des fonctionnalités des providers via vos templates](https://woivre.fr/blog/2024/04/azure-bicep-activer-des-fonctionnalites-des-providers-via-vos-templates)
  - Mar 12, 2024 : [Azure Private Endpoint - Et si on jetait un oeil à la résolution DNS](https://woivre.fr/blog/2024/03/azure-private-endpoint-et-si-on-jetait-un-oeil-a-la-resolution-dns)
  - Feb 11, 2024 : [Azure - Anticiper les impacts de la suppression des services](https://woivre.fr/blog/2024/02/azure-anticiper-les-impacts-de-la-suppression-des-services)
  - Jan 25, 2024 : [Azure Storage - Une résolution DNS en fonction du SKU](https://woivre.fr/blog/2024/01/azure-storage-une-resolution-dns-en-fonction-du-sku)
- - Dec 4, 2023 : [Azure - Ménage de printemps pour votre RBAC](https://woivre.fr/blog/2023/12/azure-menage-de-printemps-pour-votre-rbac)
- - Nov 5, 2023 : [Azure Policy - L’enfer des versions d’API](https://woivre.fr/blog/2023/11/azure-policy-lenfer-des-versions-dapi)<!-- FRENCH-BLOG-POST-LIST:END -->
+ - Dec 4, 2023 : [Azure - Ménage de printemps pour votre RBAC](https://woivre.fr/blog/2023/12/azure-menage-de-printemps-pour-votre-rbac)<!-- FRENCH-BLOG-POST-LIST:END -->
 
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
