@@ -12,11 +12,11 @@
 My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 
 <!-- FRENCH-BLOG-POST-LIST:START -->
+ - Jan 23, 2025 : [Azure Virtual Network Manager - Gérer vos IPS via un IPAM Azure built in](https://woivre.fr/blog/2025/01/azure-virtual-network-manager-gerer-vos-ips-via-un-ipam-azure-built-in)
  - Nov 28, 2024 : [Azure Network Security Perimeter - Centraliser la gestion de vos ACLs](https://woivre.fr/blog/2024/11/azure-network-security-perimeter-centraliser-la-gestion-de-vos-acls)
  - Sep 10, 2024 : [Bicep - Azure Verified Module, une bibliothèque pour vous aider](https://woivre.fr/blog/2024/09/bicep-azure-verified-module-une-bibliotheque-pour-vous-aider)
  - Jun 11, 2024 : [Azure Automation - Ajouter un package de la galerie dans vos environnements de runtime](https://woivre.fr/blog/2024/06/azure-automation-ajouter-un-package-de-la-galerie-dans-vos-environnements-de-runtime)
- - May 31, 2024 : [Bicep - Créer des objets Entra depuis vos templates](https://woivre.fr/blog/2024/05/bicep-creer-des-objets-entra-depuis-vos-templates)
- - Apr 2, 2024 : [Azure Bicep - Activer des fonctionnalités des providers via vos templates](https://woivre.fr/blog/2024/04/azure-bicep-activer-des-fonctionnalites-des-providers-via-vos-templates)<!-- FRENCH-BLOG-POST-LIST:END -->
+ - May 31, 2024 : [Bicep - Créer des objets Entra depuis vos templates](https://woivre.fr/blog/2024/05/bicep-creer-des-objets-entra-depuis-vos-templates)<!-- FRENCH-BLOG-POST-LIST:END -->
 
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
