@@ -21,10 +21,10 @@ My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
 <!-- ENGLISH-BLOG-POST-LIST:START -->
+ - Feb 8, 2025 : [Azure Virtual Network Manager - Manage your IPs with an Azure IPAM built in](https://woivre.com/blog/2025/02/azure-virtual-network-manager-manage-your-ips-with-an-azure-ipam-built-in)
  - Dec 4, 2024 : [Azure Network Security Perimeter - Centrally manage your ACLs](https://woivre.com/blog/2024/12/azure-network-security-perimeter-centrally-manage-your-acls)
  - Sep 10, 2024 : [Bicep - Azure Verified Module, a registry to help you](https://woivre.com/blog/2024/09/bicep-azure-verified-module-a-registry-to-help-you)
  - Jun 27, 2024 : [Azure Automation - Add a module from powershell gallery on runtime environment](https://woivre.com/blog/2024/06/azure-automation-add-a-module-from-powershell-gallery-on-runtime-environment)
- - May 31, 2024 : [Bicep - Create Entra ID object from your template](https://woivre.com/blog/2024/05/bicep-create-entraid-objects-from-your-template)
- - Apr 2, 2024 : [Azure Bicep - Register provider feature from your template](https://woivre.com/blog/2024/04/azure-bicep-register-provider-feature-from-your-template)<!-- ENGLISH-BLOG-POST-LIST:END -->
+ - May 31, 2024 : [Bicep - Create Entra ID object from your template](https://woivre.com/blog/2024/05/bicep-create-entraid-objects-from-your-template)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Have a good day !
