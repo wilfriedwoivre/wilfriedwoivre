@@ -12,11 +12,11 @@
 My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 
 <!-- FRENCH-BLOG-POST-LIST:START -->
+ - Feb 19, 2025 : [Azure Private Endpoint - Une amélioration utile pour la résolution DNS](https://woivre.fr/blog/2025/02/azure-private-endpoint-une-amelioration-utile-pour-la-resolution-dns)
  - Jan 23, 2025 : [Azure Virtual Network Manager - Gérer vos IPS via un IPAM Azure built in](https://woivre.fr/blog/2025/01/azure-virtual-network-manager-gerer-vos-ips-via-un-ipam-azure-built-in)
  - Dec 12, 2024 : [Azure API - Trouver toutes les versions disponibles pour chaque opération](https://woivre.fr/blog/2024/12/azure-api-trouver-toutes-les-versions-disponibles-pour-chaque-operation)
  - Nov 28, 2024 : [Azure Network Security Perimeter - Centraliser la gestion de vos ACLs](https://woivre.fr/blog/2024/11/azure-network-security-perimeter-centraliser-la-gestion-de-vos-acls)
- - Oct 17, 2024 : [Azure Policy - Gérer les conflits dans vos policy de type Modify](https://woivre.fr/blog/2024/10/azure-policy-gerer-les-conflits-dans-vos-policy-de-type-modify)
- - Sep 10, 2024 : [Bicep - Azure Verified Module, une bibliothèque pour vous aider](https://woivre.fr/blog/2024/09/bicep-azure-verified-module-une-bibliotheque-pour-vous-aider)<!-- FRENCH-BLOG-POST-LIST:END -->
+ - Oct 17, 2024 : [Azure Policy - Gérer les conflits dans vos policy de type Modify](https://woivre.fr/blog/2024/10/azure-policy-gerer-les-conflits-dans-vos-policy-de-type-modify)<!-- FRENCH-BLOG-POST-LIST:END -->
 
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
