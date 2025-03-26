@@ -12,7 +12,7 @@
 My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 
 <!-- FRENCH-BLOG-POST-LIST:START -->
- - Mar 25, 2025 : [Azure Policy - Enfin des versions pour les versions built-in](https://woivre.fr/blog/2025/03/azure-policy-enfin-des-versions-pour-les-versions-builtin)
+ - Mar 25, 2025 : [Azure Policy - Enfin des versions pour les définitions built-in](https://woivre.fr/blog/2025/03/azure-policy-enfin-des-versions-pour-les-definitions-builtin)
  - Feb 19, 2025 : [Azure Private Endpoint - Une amélioration utile pour la résolution DNS](https://woivre.fr/blog/2025/02/azure-private-endpoint-une-amelioration-utile-pour-la-resolution-dns)
  - Jan 23, 2025 : [Azure Virtual Network Manager - Gérer vos IPS via un IPAM Azure built in](https://woivre.fr/blog/2025/01/azure-virtual-network-manager-gerer-vos-ips-via-un-ipam-azure-built-in)
  - Dec 12, 2024 : [Azure API - Trouver toutes les versions disponibles pour chaque opération](https://woivre.fr/blog/2024/12/azure-api-trouver-toutes-les-versions-disponibles-pour-chaque-operation)
