@@ -12,7 +12,7 @@
 My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 
 <!-- FRENCH-BLOG-POST-LIST:START -->
- - Apr 17, 2025 : [Wilfried Woivré &amp;amp; Azure - :title](https://woivre.fr/blog/2025/04/2025-04-17-azure-powershell-mise-a-jour-de-getazaccesstoken-en-version-az-14)
+ - Apr 17, 2025 : [Azure Powershell - Mise à jour de Get-AzAccessToken en version Az 14](https://woivre.fr/blog/2025/04/azure-powershell-mise-a-jour-de-getazaccesstoken-en-version-az-14)
  - Mar 25, 2025 : [Azure Policy - Enfin des versions pour les définitions built-in](https://woivre.fr/blog/2025/03/azure-policy-enfin-des-versions-pour-les-definitions-builtin)
  - Feb 19, 2025 : [Azure Private Endpoint - Une amélioration utile pour la résolution DNS](https://woivre.fr/blog/2025/02/azure-private-endpoint-une-amelioration-utile-pour-la-resolution-dns)
  - Jan 23, 2025 : [Azure Virtual Network Manager - Gérer vos IPS via un IPAM Azure built in](https://woivre.fr/blog/2025/01/azure-virtual-network-manager-gerer-vos-ips-via-un-ipam-azure-built-in)
