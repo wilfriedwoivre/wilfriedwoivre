@@ -21,10 +21,10 @@ My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
 <!-- ENGLISH-BLOG-POST-LIST:START -->
+ - Apr 23, 2025 : [Azure PowerShell - Update from Get-AzAccessToken for Az 14](https://woivre.com/blog/2025/04/azure-powershell-update-from-getazaccesstoken-for-az-14)
  - Mar 25, 2025 : [Azure Policy - Finally versions for the Built-in definitions](https://woivre.com/blog/2025/03/azure-policy-finally-versions-for-the-built-in-definitions)
  - Feb 19, 2025 : [Azure Private Endpoint - Useful improvement for DNS resolution](https://woivre.com/blog/2025/02/azure-private-endpoint-useful-improvement-for-dns-resolution)
  - Feb 8, 2025 : [Azure Virtual Network Manager - Manage your IPs with an Azure IPAM built in](https://woivre.com/blog/2025/02/azure-virtual-network-manager-manage-your-ips-with-an-azure-ipam-built-in)
- - Dec 12, 2024 : [Azure API - Find all the versions available for each resource provider operations](https://woivre.com/blog/2024/12/azure-api-find-all-the-versions-available-for-each-resource-provider-operations)
- - Dec 4, 2024 : [Azure Network Security Perimeter - Centrally manage your ACLs](https://woivre.com/blog/2024/12/azure-network-security-perimeter-centrally-manage-your-acls)<!-- ENGLISH-BLOG-POST-LIST:END -->
+ - Dec 12, 2024 : [Azure API - Find all the versions available for each resource provider operations](https://woivre.com/blog/2024/12/azure-api-find-all-the-versions-available-for-each-resource-provider-operations)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Have a good day !
