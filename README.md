@@ -12,11 +12,11 @@
 My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 
 <!-- FRENCH-BLOG-POST-LIST:START -->
+ - Feb 11, 2026 : [Azure Advisor - Gérer vos recommendations à l’échelle](https://woivre.fr/blog/2026/02/azure-advisor-gerer-vos-recommendations-a-lechelle)
  - Aug 6, 2025 : [Bicep - Utiliser le mode Local](https://woivre.fr/blog/2025/08/bicep-utiliser-le-mode-local)
  - Jul 17, 2025 : [Bicep - Le panneau de déploiement intégré dans VS Code](https://woivre.fr/blog/2025/07/bicep-le-panneau-de-deploiement-integre-dans-vs-code)
  - Jun 26, 2025 : [Azure Copilot - Restreindre l’accès à vos utilisateurs](https://woivre.fr/blog/2025/06/azure-copilot-restreindre-lacces-a-vos-utilisateurs)
- - May 3, 2025 : [Azure Tags - Utiliser des hidden tags](https://woivre.fr/blog/2025/05/azure-tags-utiliser-des-hidden-tags)
- - Apr 17, 2025 : [Azure Powershell - Mise à jour de Get-AzAccessToken en version Az 14](https://woivre.fr/blog/2025/04/azure-powershell-mise-a-jour-de-getazaccesstoken-en-version-az-14)<!-- FRENCH-BLOG-POST-LIST:END -->
+ - May 3, 2025 : [Azure Tags - Utiliser des hidden tags](https://woivre.fr/blog/2025/05/azure-tags-utiliser-des-hidden-tags)<!-- FRENCH-BLOG-POST-LIST:END -->
 
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
