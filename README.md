@@ -14,9 +14,9 @@ My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 <!-- FRENCH-BLOG-POST-LIST:START -->
  - Mar 24, 2026 : [Azure Sandbox - Une petite évolution pour les utilisateurs de Copilot dans VSCode](https://woivre.fr/blog/2026/03/azure-sandbox-une-petite-evolution-pour-les-utilisateurs-de-copilot-dans-vscode)
  - Feb 11, 2026 : [Azure Advisor - Gérer vos recommendations à l’échelle](https://woivre.fr/blog/2026/02/azure-advisor-gerer-vos-recommendations-a-lechelle)
+ - Oct 17, 2025 : [Azure Network - Agrandir vos subnets, c’est possible !](https://woivre.fr/blog/2025/10/azure-network-agrandir-vos-subnets-cest-possible)
  - Sep 27, 2025 : [Azure - Mettez à jour vos boot diagnostics pour vos VM](https://woivre.fr/blog/2025/09/azure-mettez-a-jour-vos-boot-diagnostics-pour-vos-vm)
- - Aug 6, 2025 : [Bicep - Utiliser le mode Local](https://woivre.fr/blog/2025/08/bicep-utiliser-le-mode-local)
- - Jul 17, 2025 : [Bicep - Le panneau de déploiement intégré dans VS Code](https://woivre.fr/blog/2025/07/bicep-le-panneau-de-deploiement-integre-dans-vs-code)<!-- FRENCH-BLOG-POST-LIST:END -->
+ - Sep 7, 2025 : [Azure - Des limitations pas si loin](https://woivre.fr/blog/2025/09/azure-des-limitations-pas-si-loin)<!-- FRENCH-BLOG-POST-LIST:END -->
 
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
