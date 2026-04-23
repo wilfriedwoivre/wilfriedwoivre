@@ -21,10 +21,10 @@ My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
 <!-- ENGLISH-BLOG-POST-LIST:START -->
- - Aug 6, 2025 : [Bicep - Use the local mode](https://woivre.com/blog/2025/08/bicep-use-the-local-mode)
- - Jul 17, 2025 : [Bicep - Deployment panel in VS Code](https://woivre.com/blog/2025/07/bicep-deployment-panel-in-vs-code)
- - Jun 30, 2025 : [Copilot for Azure - Remove access for your users](https://woivre.com/blog/2025/06/copilot-for-azure-remove-access-for-your-users)
- - May 14, 2025 : [Azure Tags - Use hidden tags](https://woivre.com/blog/2025/05/azure-tags-use-hidden-tags)
- - Apr 23, 2025 : [Azure PowerShell - Update from Get-AzAccessToken for Az 14](https://woivre.com/blog/2025/04/azure-powershell-update-from-getazaccesstoken-for-az-14)<!-- ENGLISH-BLOG-POST-LIST:END -->
+ - Apr 23, 2026 : [Azure VM - RunCommand access](https://woivre.com/blog/2026/04/azure-vm-runcommand-access)
+ - Dec 15, 2025 : [Azure Network - No more public subnets](https://woivre.com/blog/2025/12/azure-network-no-more-public-subnets)
+ - Oct 17, 2025 : [Azure Network - Increase your subnet is now possible !](https://woivre.com/blog/2025/10/azure-network-increase-your-subnet-is-now-possible)
+ - Sep 7, 2025 : [Azure - Some limits are not so far](https://woivre.com/blog/2025/09/azure-some-limits-are-not-so-far)
+ - Aug 6, 2025 : [Bicep - Use the local mode](https://woivre.com/blog/2025/08/bicep-use-the-local-mode)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Have a good day !
