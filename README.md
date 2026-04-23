@@ -21,10 +21,10 @@ My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
 <!-- ENGLISH-BLOG-POST-LIST:START -->
+ - Aug 6, 2025 : [Bicep - Use the local mode](https://woivre.com/blog/2025/08/bicep-use-the-local-mode)
+ - Jul 17, 2025 : [Bicep - Deployment panel in VS Code](https://woivre.com/blog/2025/07/bicep-deployment-panel-in-vs-code)
  - Jun 30, 2025 : [Copilot for Azure - Remove access for your users](https://woivre.com/blog/2025/06/copilot-for-azure-remove-access-for-your-users)
  - May 14, 2025 : [Azure Tags - Use hidden tags](https://woivre.com/blog/2025/05/azure-tags-use-hidden-tags)
- - Apr 23, 2025 : [Azure PowerShell - Update from Get-AzAccessToken for Az 14](https://woivre.com/blog/2025/04/azure-powershell-update-from-getazaccesstoken-for-az-14)
- - Mar 25, 2025 : [Azure Policy - Finally versions for the Built-in definitions](https://woivre.com/blog/2025/03/azure-policy-finally-versions-for-the-built-in-definitions)
- - Feb 19, 2025 : [Azure Private Endpoint - Useful improvement for DNS resolution](https://woivre.com/blog/2025/02/azure-private-endpoint-useful-improvement-for-dns-resolution)<!-- ENGLISH-BLOG-POST-LIST:END -->
+ - Apr 23, 2025 : [Azure PowerShell - Update from Get-AzAccessToken for Az 14](https://woivre.com/blog/2025/04/azure-powershell-update-from-getazaccesstoken-for-az-14)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Have a good day !
