@@ -21,10 +21,10 @@ My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
 <!-- ENGLISH-BLOG-POST-LIST:START -->
- - Apr 23, 2026 : [Azure VM - RunCommand access](https://woivre.com/blog/2026/04/azure-vm-runcommand-access)
- - Dec 15, 2025 : [Azure Network - No more public subnets](https://woivre.com/blog/2025/12/azure-network-no-more-public-subnets)
- - Oct 17, 2025 : [Azure Network - Increase your subnet is now possible !](https://woivre.com/blog/2025/10/azure-network-increase-your-subnet-is-now-possible)
- - Sep 7, 2025 : [Azure - Some limits are not so far](https://woivre.com/blog/2025/09/azure-some-limits-are-not-so-far)
- - Aug 6, 2025 : [Bicep - Use the local mode](https://woivre.com/blog/2025/08/bicep-use-the-local-mode)<!-- ENGLISH-BLOG-POST-LIST:END -->
+ - Apr 10, 2026 : [Azure - Find the availability zone for your subscription](https://woivre.com/blog/2026/04/azure-find-the-availability-zone-for-your-subscription)
+ - Mar 24, 2026 : [Azure Sandbox - A small improvment for Copilot users through VSCode](https://woivre.com/blog/2026/03/azure-sandbox-a-small-improvment-for-copilot-users-through-vscode)
+ - Feb 11, 2026 : [Azure Advisor - Manage recommendations at scale](https://woivre.com/blog/2026/02/azure-advisor-manage-recommendations-at-scale)
+ - Jan 27, 2026 : [Azure VM - Update your boot diagnostics](https://woivre.com/blog/2026/01/azure-vm-update-your-boot-diagnostics)
+ - Dec 15, 2025 : [Azure Network - No more public subnets](https://woivre.com/blog/2025/12/azure-network-no-more-public-subnets)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Have a good day !
