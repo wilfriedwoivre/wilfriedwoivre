@@ -10,11 +10,11 @@
 My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 
 <!-- FRENCH-BLOG-POST-LIST:START -->
+ - May 27, 2026 : [Azure Monitor - Suivez la capacité globale utilisé par vos Azure Storage](https://woivre.fr/blog/2026/05/azure-monitor-suivez-la-capacite-globale-utilise-par-vos-azure-storage)
  - Apr 10, 2026 : [Azure - Trouver la zone qui correspond à votre souscription](https://woivre.fr/blog/2026/04/azure-trouver-la-zone-qui-correspond-a-votre-souscription)
  - Mar 24, 2026 : [Azure Sandbox - Une petite évolution pour les utilisateurs de Copilot dans VSCode](https://woivre.fr/blog/2026/03/azure-sandbox-une-petite-evolution-pour-les-utilisateurs-de-copilot-dans-vscode)
  - Feb 11, 2026 : [Azure Advisor - Gérer vos recommendations à l’échelle](https://woivre.fr/blog/2026/02/azure-advisor-gerer-vos-recommendations-a-lechelle)
- - Jan 27, 2026 : [Azure - Mettez à jour vos boot diagnostics pour vos VM](https://woivre.fr/blog/2026/01/azure-mettez-a-jour-vos-boot-diagnostics-pour-vos-vm)
- - Dec 15, 2025 : [Azure Network - Fini les subnets publiques](https://woivre.fr/blog/2025/12/azure-network-fini-les-subnets-publiques)<!-- FRENCH-BLOG-POST-LIST:END -->
+ - Jan 27, 2026 : [Azure - Mettez à jour vos boot diagnostics pour vos VM](https://woivre.fr/blog/2026/01/azure-mettez-a-jour-vos-boot-diagnostics-pour-vos-vm)<!-- FRENCH-BLOG-POST-LIST:END -->
 
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
