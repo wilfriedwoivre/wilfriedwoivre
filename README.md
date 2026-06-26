@@ -19,10 +19,10 @@ My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
 <!-- ENGLISH-BLOG-POST-LIST:START -->
+ - Jun 26, 2026 : [Azure Keyvault - How to restore when you have Azure Policies](https://woivre.com/blog/2026/06/azure-keyvault-how-to-restore-when-you-have-azure-policies)
  - May 27, 2026 : [Azure Monitor - Follow global storage you used](https://woivre.com/blog/2026/05/azure-monitor-follow-global-storage-you-used)
  - Apr 10, 2026 : [Azure - Find the availability zone for your subscription](https://woivre.com/blog/2026/04/azure-find-the-availability-zone-for-your-subscription)
  - Mar 24, 2026 : [Azure Sandbox - A small improvment for Copilot users through VSCode](https://woivre.com/blog/2026/03/azure-sandbox-a-small-improvment-for-copilot-users-through-vscode)
- - Feb 11, 2026 : [Azure Advisor - Manage recommendations at scale](https://woivre.com/blog/2026/02/azure-advisor-manage-recommendations-at-scale)
- - Jan 27, 2026 : [Azure VM - Update your boot diagnostics](https://woivre.com/blog/2026/01/azure-vm-update-your-boot-diagnostics)<!-- ENGLISH-BLOG-POST-LIST:END -->
+ - Feb 11, 2026 : [Azure Advisor - Manage recommendations at scale](https://woivre.com/blog/2026/02/azure-advisor-manage-recommendations-at-scale)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Have a good day !
