@@ -10,11 +10,11 @@
 My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 
 <!-- FRENCH-BLOG-POST-LIST:START -->
+ - Sep 24, 2026 : [Azure Network Security Perimeter ou Private Endpoint - lequel utiliser ?](https://woivre.fr/blog/2026/09/azure-network-security-perimeter-ou-private-endpoint-lequel-choisir)
  - Sep 17, 2026 : [Comment protéger les ressources PaaS avec Azure Network Security Perimeter](https://woivre.fr/blog/2026/09/comment-proteger-les-ressources-paas-avec-azure-network-security-perimeter)
  - Sep 10, 2026 : [Azure Network Security Perimeter - Pourquoi c’est l’avenir de la sécurité réseau](https://woivre.fr/blog/2026/09/azure-network-security-perimeter-pourquoi-cest-lavenir-de-la-securite-reseau)
  - Aug 14, 2026 : [Azure Front Door - Enfin le support du mTLS qui arrive](https://woivre.fr/blog/2026/08/azure-front-door-enfin-le-support-du-mtls-qui-arrive)
- - Jun 24, 2026 : [Azure KeyVault - Comment restaurer vos keyvaults lorsque vous avez des Azure Policies](https://woivre.fr/blog/2026/06/azure-keyvault-comment-restaurer-vos-keyvaults-lorsque-vous-avez-des-azure-policies)
- - May 27, 2026 : [Azure Monitor - Suivez la capacité globale utilisé par vos Azure Storage](https://woivre.fr/blog/2026/05/azure-monitor-suivez-la-capacite-globale-utilise-par-vos-azure-storage)<!-- FRENCH-BLOG-POST-LIST:END -->
+ - Jun 24, 2026 : [Azure KeyVault - Comment restaurer vos keyvaults lorsque vous avez des Azure Policies](https://woivre.fr/blog/2026/06/azure-keyvault-comment-restaurer-vos-keyvaults-lorsque-vous-avez-des-azure-policies)<!-- FRENCH-BLOG-POST-LIST:END -->
 
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
