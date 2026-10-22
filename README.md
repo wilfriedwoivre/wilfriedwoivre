@@ -19,10 +19,10 @@ My lastest posts from my french blog [https://woivre.fr](https://woivre.fr) :
 And here is my latest posts from my english blog [https://woivre.com](https://woivre.com) :
 
 <!-- ENGLISH-BLOG-POST-LIST:START -->
+ - Oct 22, 2026 : [Azure Service Endpoint - Standard vs Basic](https://woivre.com/blog/2026/10/azure-service-endpoint-standard-vs-basic)
  - Sep 25, 2026 : [Azure Storage - Migrate your ACLs to NSP without downtime](https://woivre.com/blog/2026/09/azure-storage-migrate-your-acls-to-nsp-without-downtime)
  - Sep 11, 2026 : [Azure Front Door - mTLS support](https://woivre.com/blog/2026/09/azure-front-door-mtls-support)
  - Aug 31, 2026 : [Implementing Azure Network Security Perimeter in a Real-World Azure Architecture](https://woivre.com/blog/2026/08/implementing-azure-network-security-perimeter-in-a-real-world-azure-architecture)
- - Aug 24, 2026 : [Azure Network Security Perimeter vs Private Endpoints - Which One Should You Use?](https://woivre.com/blog/2026/08/azure-network-security-perimeter-vs-private-endpoints-which-one-should-you-use)
- - Aug 17, 2026 : [How to Protect PaaS Resources with Azure Network Security Perimeter](https://woivre.com/blog/2026/08/how-to-protect-paas-resources-with-azure-network-security-perimeter)<!-- ENGLISH-BLOG-POST-LIST:END -->
+ - Aug 24, 2026 : [Azure Network Security Perimeter vs Private Endpoints - Which One Should You Use?](https://woivre.com/blog/2026/08/azure-network-security-perimeter-vs-private-endpoints-which-one-should-you-use)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Have a good day !
